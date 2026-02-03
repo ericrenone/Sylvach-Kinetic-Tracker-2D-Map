@@ -29,3 +29,11 @@ Sylvach leverages **first-principles linear algebra and contraction mappings** t
   - Per-iteration residual:  
     ```math
     \max_i \| \mathbf{x}_i - \mathbf{x}_\text{avg} \|
+
+
+🏷️ Why "Sylvach"?
+The name Sylvach is a portmanteau of two pillars of mathematical analysis:
+
+Sylvester (James Joseph Sylvester): Representing the Symmetric Matrix support and the stability criteria of the consensus states.
+
+Banach (Stefan Banach): Representing the Fixed-Point Convergence and the contractive nature of the relaxed update rule.
