@@ -37,3 +37,9 @@ The name Sylvach is a portmanteau of two pillars of mathematical analysis:
 Sylvester (James Joseph Sylvester): Representing the Symmetric Matrix support and the stability criteria of the consensus states.
 
 Banach (Stefan Banach): Representing the Fixed-Point Convergence and the contractive nature of the relaxed update rule.
+
+
+Theoretical Concept,Code Implementation,Mathematical Impact
+Symmetry,(A + A.T) / 2,"Ensures states remain within the ""Sylvester"" domain of valid symmetric matrices."
+Contraction,X += alpha * (Xbar - X),"The ""Banach"" step that pulls every node toward the fixed-point mean."
+Stability,alpha parameter,"Controls the ""aggressiveness"" of the contraction (Optimal at 1<α<2)."
