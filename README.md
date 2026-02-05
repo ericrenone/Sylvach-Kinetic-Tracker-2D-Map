@@ -1,4 +1,4 @@
-# Sylvach Kinetic Tracker: 2D Phase-Space Contraction Map
+# Sylvach Kinetic Tracker: 2D Map
 
 **Focus:** Low-Resource Federated Learning, Decentralized Systems, Fixed-Point Dynamics
 
